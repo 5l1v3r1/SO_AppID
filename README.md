@@ -1,6 +1,6 @@
 snortapps.sh	
 Upgrade Security Onion 12.04.4 to use openappid
-Steve Borosh steveborosh@cybersecuritystrategies.co | rvrsh3ll on freenode irc
+
 
 
 Start with a fresh install of Security Onion 12.04.4 post-setup.
