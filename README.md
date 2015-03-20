@@ -1,4 +1,3 @@
-snortapps.sh	
 Upgrade Security Onion 12.04.4 to use openappid
 
 
